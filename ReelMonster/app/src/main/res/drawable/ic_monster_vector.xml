@@ -1,0 +1,61 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+  <!-- Monster Outer Body -->
+  <path
+      android:fillColor="#FF3385"
+      android:pathData="M64,12 C92.7,12 116,35.3 116,64 C116,92.7 92.7,116 64,116 C35.3,116 12,92.7 12,64 C12,35.3 35.3,12 64,12 Z"/>
+
+  <!-- Left Horn -->
+  <path
+      android:fillColor="#FACC15"
+      android:pathData="M32,32 C24,18 36,12 42,22 Z"/>
+
+  <!-- Right Horn -->
+  <path
+      android:fillColor="#FACC15"
+      android:pathData="M96,32 C104,18 92,12 86,22 Z"/>
+
+  <!-- Cheerful Rosy Cheeks -->
+  <path
+      android:fillColor="#FF85C1"
+      android:pathData="M28,68 A8,8 0 1,0 44,68 A8,8 0 1,0 28,68 Z"/>
+  <path
+      android:fillColor="#FF85C1"
+      android:pathData="M84,68 A8,8 0 1,0 100,68 A8,8 0 1,0 84,68 Z"/>
+
+  <!-- Expressive Big Eyes (White) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M38,54 A12,14 0 1,0 62,54 A12,14 0 1,0 38,54 Z"/>
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M66,54 A12,14 0 1,0 90,54 A12,14 0 1,0 66,54 Z"/>
+
+  <!-- Pupils (Navy Charcoal) -->
+  <path
+      android:fillColor="#0F172A"
+      android:pathData="M46,55 A8,9 0 1,0 62,55 A8,9 0 1,0 46,55 Z"/>
+  <path
+      android:fillColor="#0F172A"
+      android:pathData="M74,55 A8,9 0 1,0 90,55 A8,9 0 1,0 74,55 Z"/>
+
+  <!-- Catchlight Highlights -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M52,50 A3,3 0 1,0 58,50 A3,3 0 1,0 52,50 Z"/>
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M80,50 A3,3 0 1,0 86,50 A3,3 0 1,0 80,50 Z"/>
+
+  <!-- Happy Smile -->
+  <path
+      android:strokeColor="#0F172A"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:pathData="M52,80 Q64,92 76,80"/>
+
+</vector>

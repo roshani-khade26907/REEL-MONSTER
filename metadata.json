@@ -1,0 +1,6 @@
+{
+  "name": "Reel Monster",
+  "description": "A floating screen-time monster for Instagram Reels and YouTube Shorts with manual & automatic counting, overlay controls, and usage analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

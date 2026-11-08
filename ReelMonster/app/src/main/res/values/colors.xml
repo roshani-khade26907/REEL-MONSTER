@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Reel Monster Palette: Soft blush, Magenta/Pink, Dark Navy, Yellow Accent -->
+    <color name="monster_pink">#FF3385</color>
+    <color name="monster_magenta">#D81B60</color>
+    <color name="monster_blush_bg">#FFF0F5</color>
+    <color name="monster_dark_navy">#0F172A</color>
+    <color name="monster_yellow_accent">#FACC15</color>
+    <color name="monster_card_white">#FFFFFF</color>
+    <color name="monster_text_charcoal">#1E293B</color>
+    <color name="monster_subtext_muted">#64748B</color>
+    <color name="monster_border">#FBCFE8</color>
+</resources>

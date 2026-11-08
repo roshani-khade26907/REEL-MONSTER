@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reel Monster</string>
+    <string name="accessibility_service_label">Reel Monster Automatic Detection</string>
+    <string name="accessibility_service_description">Reel Monster uses accessibility events locally to detect transitions between short-form videos in Instagram Reels and YouTube Shorts. No content, text, passwords, or personal data are collected or sent anywhere.</string>
+    <string name="overlay_notification_title">Reel Monster is watching</string>
+    <string name="overlay_notification_text">Floating screen-time bubble active. Tap to open dashboard.</string>
+    <string name="overlay_channel_name">Reel Monster Floating Service</string>
+    <string name="overlay_channel_desc">Keeps the Reel Monster floating character visible over video apps.</string>
+    <string name="privacy_statement">Reel Monster processes activity locally on your device. It does not require an account and does not upload your viewing activity to a server.</string>
+</resources>
